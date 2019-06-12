@@ -4,9 +4,6 @@
 * Copyright (c) 2014 Prashanth Pamidi; Licensed MIT
 *****/
 
-;(function ($) {
-  "use strict";
-
   // The basic svg string required to generate stars
   var BASICSTAR = "<?xml version=\"1.0\" encoding=\"utf-8\"?>"+
                   "<svg version=\"1.1\""+
@@ -1136,4 +1133,4 @@
   window.RateYo = RateYo;
   $.fn.rateYo = rateYo;
 
-}(window.jQuery));
+

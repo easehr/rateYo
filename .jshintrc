@@ -3,7 +3,7 @@
   "eqeqeq": true,
   "immed": true,
   "indent": 2,
-  "strict": true,
+  "strict": false,
   "camelcase": true,
   "latedef": "nofunc",
   "newcap": true,
@@ -15,5 +15,6 @@
   "maxlen": 90,
   "shadow": false,
   "browser": true,
-  "jquery": true
+  "jquery": true,
+  "esversion": 6
 }
